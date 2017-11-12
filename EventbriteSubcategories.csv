@@ -1,0 +1,198 @@
+Subcategory ID,Name,Parent Category ID,Parent Category Name,Parent Category Localized Name,Resource URI
+1001,Startups & Small Business,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1002,Finance,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1003,Environment & Sustainability,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1004,Educators,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1005,Real Estate,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1006,Non Profit & NGOs,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1007,Sales & Marketing,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1008,Media,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1009,Design,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1010,Career,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1011,Investment,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+1999,Other,101,Business & Professional,Business & Professional,https://www.eventbriteapi.com/v3/categories/101/
+2001,Medicine,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+2002,Science,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+2003,Biotech,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+2004,High Tech,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+2005,Mobile,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+2006,Social Media,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+2007,Robotics,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+2999,Other,102,Science & Technology,Science & Technology,https://www.eventbriteapi.com/v3/categories/102/
+3001,Alternative,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3002,Blues & Jazz,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3003,Classical,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3004,Country,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3005,Cultural,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3006,EDM / Electronic,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3007,Folk,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3008,Hip Hop / Rap,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3009,Indie,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3010,Latin,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3011,Metal,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3012,Opera,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3013,Pop,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3014,R&B,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3015,Reggae,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3016,Religious/Spiritual,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3017,Rock,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3018,Top 40,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+3999,Other,103,Music,Music,https://www.eventbriteapi.com/v3/categories/103/
+4001,TV,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+4002,Film,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+4003,Anime,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+4004,Gaming,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+4005,Comics,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+4006,Adult,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+4007,Comedy,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+4999,Other,104,"Film, Media & Entertainment","Film, Media & Entertainment",https://www.eventbriteapi.com/v3/categories/104/
+5001,Theatre,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5002,Musical,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5003,Ballet,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5004,Dance,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5005,Opera,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5006,Orchestra,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5007,Craft,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5008,Fine Art,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5009,Literary Arts,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5010,Comedy,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5011,Sculpture,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5012,Painting,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5013,Design,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5014,Jewelry,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+5999,Other,105,Performing & Visual Arts,Performing & Visual Arts,https://www.eventbriteapi.com/v3/categories/105/
+6001,Fashion,106,Fashion & Beauty,Fashion & Beauty,https://www.eventbriteapi.com/v3/categories/106/
+6002,Accessories,106,Fashion & Beauty,Fashion & Beauty,https://www.eventbriteapi.com/v3/categories/106/
+6003,Bridal,106,Fashion & Beauty,Fashion & Beauty,https://www.eventbriteapi.com/v3/categories/106/
+6004,Beauty,106,Fashion & Beauty,Fashion & Beauty,https://www.eventbriteapi.com/v3/categories/106/
+6999,Other,106,Fashion & Beauty,Fashion & Beauty,https://www.eventbriteapi.com/v3/categories/106/
+7001,Personal health,107,Health & Wellness,Health & Wellness,https://www.eventbriteapi.com/v3/categories/107/
+7002,Mental health,107,Health & Wellness,Health & Wellness,https://www.eventbriteapi.com/v3/categories/107/
+7003,Medical,107,Health & Wellness,Health & Wellness,https://www.eventbriteapi.com/v3/categories/107/
+7004,Spa,107,Health & Wellness,Health & Wellness,https://www.eventbriteapi.com/v3/categories/107/
+7005,Yoga,107,Health & Wellness,Health & Wellness,https://www.eventbriteapi.com/v3/categories/107/
+7999,Other,107,Health & Wellness,Health & Wellness,https://www.eventbriteapi.com/v3/categories/107/
+8001,Running,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8002,Walking,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8003,Cycling,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8004,Mountain Biking,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8005,Obstacles,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8006,Basketball,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8007,Football,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8008,Baseball,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8009,Soccer,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8010,Golf,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8011,Volleyball,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8012,Tennis,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8013,Swimming & Water Sports,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8014,Hockey,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8015,Motorsports,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8016,Fighting & Martial Arts,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8017,Snow Sports,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8018,Rugby,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8019,Yoga,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8020,Exercise,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8021,Softball,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8022,Wrestling,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8023,Lacrosse,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8024,Cheer,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8025,Camps,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8026,Weightlifting,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8027,Track & Field,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+8999,Other,108,Sports & Fitness,Sports & Fitness,https://www.eventbriteapi.com/v3/categories/108/
+9001,Hiking,109,Travel & Outdoor,Travel & Outdoor,https://www.eventbriteapi.com/v3/categories/109/
+9002,Rafting,109,Travel & Outdoor,Travel & Outdoor,https://www.eventbriteapi.com/v3/categories/109/
+9003,Kayaking,109,Travel & Outdoor,Travel & Outdoor,https://www.eventbriteapi.com/v3/categories/109/
+9004,Canoeing,109,Travel & Outdoor,Travel & Outdoor,https://www.eventbriteapi.com/v3/categories/109/
+9005,Climbing,109,Travel & Outdoor,Travel & Outdoor,https://www.eventbriteapi.com/v3/categories/109/
+9006,Travel,109,Travel & Outdoor,Travel & Outdoor,https://www.eventbriteapi.com/v3/categories/109/
+9999,Other,109,Travel & Outdoor,Travel & Outdoor,https://www.eventbriteapi.com/v3/categories/109/
+10001,Beer,110,Food & Drink,Food & Drink,https://www.eventbriteapi.com/v3/categories/110/
+10002,Wine,110,Food & Drink,Food & Drink,https://www.eventbriteapi.com/v3/categories/110/
+10003,Food,110,Food & Drink,Food & Drink,https://www.eventbriteapi.com/v3/categories/110/
+10004,Spirits,110,Food & Drink,Food & Drink,https://www.eventbriteapi.com/v3/categories/110/
+10999,Other,110,Food & Drink,Food & Drink,https://www.eventbriteapi.com/v3/categories/110/
+11001,Animal Welfare,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11002,Environment,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11003,Healthcare,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11004,Human Rights,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11005,International Aid,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11006,Poverty,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11007,Disaster Relief,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11008,Education,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+11999,Other,111,Charity & Causes,Charity & Causes,https://www.eventbriteapi.com/v3/categories/111/
+12001,Republican Party,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12002,Democratic Party,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12003,Other Party,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12004,Non-partisan,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12005,Federal Government,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12006,State Government,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12007,County/Municipal Government ,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12008,Military,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12009,International Affairs,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12010,National Security,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+12999,Other,112,Government & Politics,Government & Politics,https://www.eventbriteapi.com/v3/categories/112/
+13001,State,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13002,County,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13003,City/Town,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13004,LGBT,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13005,Medieval,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13006,Renaissance,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13007,Heritage,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13008,Nationality,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13009,Language,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13010,Historic,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+13999,Other,113,Community & Culture,Community & Culture,https://www.eventbriteapi.com/v3/categories/113/
+14001,Christianity,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14002,Judaism,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14003,Islam,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14004,Mormonism,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14005,Buddhism,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14006,Sikhism,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14007,Eastern Religion,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14008,Mysticism and Occult,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14009,New Age,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+14099,Other,114,Religion & Spirituality,Religion & Spirituality,https://www.eventbriteapi.com/v3/categories/114/
+15001,Education,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15002,Alumni,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15003,Parenting,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15004,Baby,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15005,Children & Youth ,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15006,Parents Association,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15007,Reunion,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15008,Senior Citizen,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+15999,Other,115,Family & Education,Family & Education,https://www.eventbriteapi.com/v3/categories/115/
+16001,St Patricks Day,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16002,Easter,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16003,Independence Day,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16004,Halloween/Haunt,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16005,Thanksgiving,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16006,Christmas,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16007,Channukah,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16008,Fall events,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16009,New Years Eve,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+16999,Other,116,Seasonal & Holiday,Seasonal & Holiday,https://www.eventbriteapi.com/v3/categories/116/
+17001,Dating,117,Home & Lifestyle,Home & Lifestyle,https://www.eventbriteapi.com/v3/categories/117/
+17002,Pets & Animals,117,Home & Lifestyle,Home & Lifestyle,https://www.eventbriteapi.com/v3/categories/117/
+17003,Home & Garden,117,Home & Lifestyle,Home & Lifestyle,https://www.eventbriteapi.com/v3/categories/117/
+17999,Other,117,Home & Lifestyle,Home & Lifestyle,https://www.eventbriteapi.com/v3/categories/117/
+18001,Auto,118,"Auto, Boat & Air","Auto, Boat & Air",https://www.eventbriteapi.com/v3/categories/118/
+18002,Motorcycle/ATV,118,"Auto, Boat & Air","Auto, Boat & Air",https://www.eventbriteapi.com/v3/categories/118/
+18003,Boat,118,"Auto, Boat & Air","Auto, Boat & Air",https://www.eventbriteapi.com/v3/categories/118/
+18004,Air,118,"Auto, Boat & Air","Auto, Boat & Air",https://www.eventbriteapi.com/v3/categories/118/
+18999,Other,118,"Auto, Boat & Air","Auto, Boat & Air",https://www.eventbriteapi.com/v3/categories/118/
+19001,Anime/Comics,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19002,Gaming,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19003,DIY,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19004,Photography,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19005,Knitting,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19006,Books,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19007,Adult,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19008,Drawing & Painting,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+19999,Other,119,Hobbies & Special Interest,Hobbies & Special Interest,https://www.eventbriteapi.com/v3/categories/119/
+20001,Dinner,120,School Activities,School Activities,https://www.eventbriteapi.com/v3/categories/120/
+20002,Fund Raiser,120,School Activities,School Activities,https://www.eventbriteapi.com/v3/categories/120/
+20003,Raffle,120,School Activities,School Activities,https://www.eventbriteapi.com/v3/categories/120/
+20004,After School Care,120,School Activities,School Activities,https://www.eventbriteapi.com/v3/categories/120/
+20005,Parking,120,School Activities,School Activities,https://www.eventbriteapi.com/v3/categories/120/
+20006,Public Speaker,120,School Activities,School Activities,https://www.eventbriteapi.com/v3/categories/120/

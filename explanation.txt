@@ -1,1 +1,13 @@
 Put your Project 5 brief explanation, as directed, here.
+
+I am accessing the Eventbrite's API and gathering:
+    - A lists of all the Subcategories that Eventbrite uses to label events
+      - For each subcategory, I'll be accessing the ID, name, parent category id and name, and the link.
+    - A list of all events on Eventbrite with the keyword 'Chicago':
+      - for each I'll access it's name, description, room capacity, event id, venue id, subcategory for the event, and finally the url.
+    - I'll write 2 CSV files, one for each the Subcategories list and the second for the Chicago query
+    - The CSV for subcategories will have 6 columns total, 1 column respectively for the parsed items
+    - The CSV for Chicago query will have 7 columns total, 1 column respectively for the parsed items
+    URL for the API:
+    - If necessary, URL describing the authentication process for the API:
+    <https://www.eventbrite.com/developer/v3/api_overview/authentication/>
