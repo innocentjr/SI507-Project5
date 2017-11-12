@@ -159,8 +159,6 @@ def grab_subcatergories(var, file_name, tokens):
 
         except:
             with open(file_name,"w") as f:
-                print(type(CACHE_DICTION))
-                print(CACHE_DICTION.keys())
                 json_dic = json.dumps(CACHE_DICTION[var], indent=4, sort_keys=True, separators=(',', ': '))
                 f.write(json_dic)
                 f.close
@@ -177,7 +175,6 @@ def grab_subcatergories(var, file_name, tokens):
             pass
 
     json_dic = json.loads(json_dic)
-    print(type(json_dic))
     return json_dic
 
 # TODO use make_eventbrite_request
@@ -189,7 +186,6 @@ def run(file_name, tokens, endpoint):
             with open(tokens, 'r') as f:
                 token = json.loads(f.read())
                 f.close()
-                print(has_cache_expired(token['timestamp'], 1))
                 if has_cache_expired(token['timestamp'], DAYS) == True:
                     os.remove(tokens)
                     os.remove(file_name)
